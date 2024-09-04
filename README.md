@@ -22,7 +22,7 @@ YouTube Transcript Summarizer is a web application designed to simplify the proc
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/YouTube-Transcript-Summarizer.git
+   git clone https://github.com/parth968/YouTube-Transcript-Summarizer.git
    cd YouTube-Transcript-Summarizer
    ```
 
